@@ -1,0 +1,16 @@
+Mapliste = [
+    "Breach",
+    "Hollows",
+    "Lockdown",
+    "Vice",
+    "Hight Castle",
+    "Skyfell",
+    "Favelas",
+    "Windward",
+    "Canals",
+    "Icarus",
+    "Factory",
+    "Palace",
+    "Meltdown",
+    "Wanted",
+]
